@@ -1,0 +1,2 @@
+/* rev-a9c41e-20260917 */
+25.2.6 build 5324 channel rack, asio, piano scale, vst3 scan
